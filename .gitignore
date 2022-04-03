@@ -1,6 +1,7 @@
 # .gitignore for Bill-Costa.github.io
 
 .DS_Store
+*.webloc
 *~
 
 #==[ EOF: .gitignore ]==
