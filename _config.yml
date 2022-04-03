@@ -1,1 +1,3 @@
-theme: jekyll-theme-architect
+theme: jekyll-theme-dinky
+title: Stereo Photography Workflow Tools
+description: Command line tools for manipulating Stereo 3D images.
